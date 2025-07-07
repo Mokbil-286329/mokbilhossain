@@ -25,8 +25,7 @@
 ---
 
 ### 📌 GitHub Stats:
-![Mokbil's GitHub stats]https://github-readme-stats.vercel.app/api?username=mokbilhossain&show_icons=true&theme=default
-
----
+![GitHub followers](https://img.shields.io/github/followers/mokbilhossain?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mokbilhossain?style=social)
 
 🧠 Always learning. Always building. Let’s connect!
