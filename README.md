@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me:
 - Portfolio: [https://mdmokbilhossain.infy.uk](https://mdmokbilhossain.infy.uk)
-- LinkedIn: linkedin.com/in/your-link](https://linkedin.com)](https://www.linkedin.com/in/md-mokbil-hossain-a35637373/?trk=opento_sprofile_details
+- LinkedIn: https://linkedin.com)](https://www.linkedin.com/in/md-mokbil-hossain-a35637373/?trk=opento_sprofile_details
 - Email:mdmokbilhossain331@gmail.com
 
 ---
